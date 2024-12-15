@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "imgSrc": "https://example.com/image.jpg",
+    "genre": "Pop",
+    "country": "USA",
+    "age": 30,
+    "info": "A popular artist known for his amazing pop music.",
+    "isVerified": true,
+    "songs": []
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "imgSrc": "https://example.com/image2.jpg",
+    "genre": "Rock",
+    "country": "UK",
+    "age": 27,
+    "info": "An emerging rock artist from the UK.",
+    "isVerified": false,
+    "songs": [
+      "Song 1",
+      "Song 2"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mike Brown",
+    "imgSrc": "https://example.com/image3.jpg",
+    "genre": "Jazz",
+    "country": "Canada",
+    "age": 35,
+    "info": "A Jazz musician with years of experience.",
+    "isVerified": true,
+    "songs": [
+      "Jazz Tune 1"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lisa White",
+    "imgSrc": "https://example.com/image4.jpg",
+    "genre": "Classical",
+    "country": "Germany",
+    "age": 40,
+    "info": "Renowned for her classical compositions.",
+    "isVerified": true,
+    "songs": [
+      "Symphony 1",
+      "Concerto 2"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tom Green",
+    "imgSrc": "https://example.com/image5.jpg",
+    "genre": "EDM",
+    "country": "Australia",
+    "age": 24,
+    "info": "Young EDM artist gaining rapid popularity.",
+    "isVerified": false,
+    "songs": [
+      "EDM Track 1",
+      "EDM Track 2"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Emily Black",
+    "imgSrc": "https://example.com/image6.jpg",
+    "genre": "Blues",
+    "country": "USA",
+    "age": 32,
+    "info": "Known for soulful Blues music.",
+    "isVerified": true,
+    "songs": [
+      "Blues Song 1"
+    ]
+  }
+]
