@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "John Doe",
-      "imgSrc": "https://example.com/image.jpg",
+      "imgSrc": "https://assets.capitalfm.com/2022/43/ed-sheeran--1666953393-editorial-short-form-0.jpg",
       "genre": "Pop",
       "country": "USA",
       "age": 30,
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "name": "Jane Smith",
-      "imgSrc": "https://example.com/image2.jpg",
+      "imgSrc": "https://media.istockphoto.com/id/994318634/photo/young-hipster-african-american-rapper-recording-songs-in-music-recording-studio.jpg?s=612x612&w=0&k=20&c=A2iXa5XXStfOQ9477mTTjMc6ml6cCkrPn4Kr9oqECg8=",
       "genre": "Rock",
       "country": "UK",
       "age": 27,
@@ -28,7 +28,7 @@
     {
       "id": 3,
       "name": "Mike Brown",
-      "imgSrc": "https://example.com/image3.jpg",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXnGnR97InAAYpw_C0rb8lmYY2_CsaX5iyw&s",
       "genre": "Jazz",
       "country": "Canada",
       "age": 35,
@@ -41,7 +41,7 @@
     {
       "id": 4,
       "name": "Lisa White",
-      "imgSrc": "https://example.com/image4.jpg",
+      "imgSrc": "https://www.bmi.com/images/news/2019/_770/iStock-1128240580.jpg",
       "genre": "Classical",
       "country": "Germany",
       "age": 40,
@@ -55,7 +55,7 @@
     {
       "id": 5,
       "name": "Tom Green",
-      "imgSrc": "https://example.com/image5.jpg",
+      "imgSrc": "https://i.insider.com/5b3f9d797708e91fe73121f9?width=600&format=jpeg&auto=webp",
       "genre": "EDM",
       "country": "Australia",
       "age": 24,
@@ -69,7 +69,7 @@
     {
       "id": 6,
       "name": "Emily Black",
-      "imgSrc": "https://example.com/image6.jpg",
+      "imgSrc": "https://studybritannia.com/wp-content/uploads/2021/02/Most-Inspirational-Music-Artists-of-all-Time-e1615564140616.png",
       "genre": "Blues",
       "country": "USA",
       "age": 32,
